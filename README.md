@@ -73,5 +73,5 @@
 <pre><code class="language-sh"> npm run dev
 </code></pre>
 
-<div align="left" class=""><a href="#top">⬆ Return</a></div>
+
 <hr></div></div>
